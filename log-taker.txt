@@ -3570,3 +3570,12 @@
 4/17/2025 | 8:15:53 PM | INFO | Trying to activate mining on-chain for wallet: 0x41CB827A811d7BbFE4Cb14729D5Fa01bEe00e4CF 
 4/17/2025 | 8:15:53 PM | ERROR | Activate Mining Error: {"errno":-111,"code":"ECONNREFUSED","syscall":"connect","address":"101.47.19.33","port":443}
 4/17/2025 | 8:15:53 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+4/18/2025 | 1:08:32 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/18/2025 | 1:08:32 AM | INFO | Start process for wallet 0x41CB827A811d7BbFE4Cb14729D5Fa01bEe00e4CF 
+4/18/2025 | 1:08:32 AM | INFO | Trying To Login for wallet: 0x41CB827A811d7BbFE4Cb14729D5Fa01bEe00e4CF 
+4/18/2025 | 1:08:33 AM | INFO | Login successful... 
+4/18/2025 | 1:08:33 AM | INFO | Trying to check user info... 
+4/18/2025 | 1:08:34 AM | INFO | User ID: 28264053 | Twitter: @devinasrya | Total Points: 1368000 
+4/18/2025 | 1:08:34 AM | INFO | Trying to check user miner status... 
+4/18/2025 | 1:08:40 AM | INFO | Last mining time: 4/17/2025, 12:29:03 PM
+4/18/2025 | 1:08:40 AM | WARN | Mining already started, next mining time is: 4/18/2025, 12:29:03 PM
