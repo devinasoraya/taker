@@ -4494,3 +4494,15 @@
 5/4/2025 | 4:18:19 AM | INFO | Trying to check user miner status... 
 5/4/2025 | 4:18:20 AM | INFO | Last mining time: 5/3/2025, 8:17:18 AM
 5/4/2025 | 4:18:20 AM | WARN | Mining already started, next mining time is: 5/4/2025, 8:17:18 AM
+5/4/2025 | 8:17:42 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/4/2025 | 8:17:43 AM | INFO | Start process for wallet 0x41CB827A811d7BbFE4Cb14729D5Fa01bEe00e4CF 
+5/4/2025 | 8:17:44 AM | INFO | Trying To Login for wallet: 0x41CB827A811d7BbFE4Cb14729D5Fa01bEe00e4CF 
+5/4/2025 | 8:17:45 AM | INFO | Login successful... 
+5/4/2025 | 8:17:45 AM | INFO | Trying to check user info... 
+5/4/2025 | 8:17:46 AM | INFO | User ID: 28264053 | Twitter: @devinasrya | Total Points: 1704000 
+5/4/2025 | 8:17:46 AM | INFO | Trying to check user miner status... 
+5/4/2025 | 8:17:46 AM | INFO | Last mining time: 5/3/2025, 8:17:18 AM
+5/4/2025 | 8:17:46 AM | INFO | Trying to start Mining for wallet: 0x41CB827A811d7BbFE4Cb14729D5Fa01bEe00e4CF 
+5/4/2025 | 8:17:54 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/4/2025 | 8:17:54 AM | INFO | Trying to activate mining on-chain for wallet: 0x41CB827A811d7BbFE4Cb14729D5Fa01bEe00e4CF 
+5/4/2025 | 8:18:05 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xac933f2e9bb7afddef224993d42a25ed79444bd9a086b18eb3595d7e24e27675 
